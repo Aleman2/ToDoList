@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(2, 110, 199);
+    font-size: 70px;
+  }
+  
+  #tasks {
+    border: 0px;
+    outline: none;
+  }
+  
